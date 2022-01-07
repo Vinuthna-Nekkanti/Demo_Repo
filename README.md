@@ -1,3 +1,3 @@
-# header file
+# Header file
 
 DESCRIPTION
